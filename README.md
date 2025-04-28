@@ -1,6 +1,6 @@
 # ICU Mortality Prediction: Machine Learning Application in Medicine
 
-![ICU Image](https://upload.wikimedia.org/wikipedia/commons/6/65/Intensive_care_unit_%28ICU%29.jpg)
+![ICU Image](https://github.com/MichaelMutter/ICU-Mortality-Prediction/blob/main/Medical%20Data%20Analysis.jpeg)
 
 ## Project Overview
 In this project, we explored clinical predictors of **mortality in Intensive Care Unit (ICU) patients** using real-world medical data from the **MIMIC-III** database.  
